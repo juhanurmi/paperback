@@ -1,2 +1,11 @@
 /target
 *.swp
+/build
+Cargo.lock
+
+paperback.manifest
+paperback.manifest.sgx
+paperback.sig
+paperback.token
+
+*.csv

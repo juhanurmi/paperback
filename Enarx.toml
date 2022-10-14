@@ -1,0 +1,12 @@
+# Pre-opened file descriptors
+[[files]]
+kind = "null"
+
+[[files]]
+kind = "stdout"
+
+[[files]]
+kind = "stdin"
+
+[[files]]
+kind = "stderr"
